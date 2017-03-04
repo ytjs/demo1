@@ -1,5 +1,5 @@
 {
-  "name": "test",
+  "name": "demo1",
   "version": "1.0.0",
   "description": "",
   "main": "gulpfile.js",
@@ -12,5 +12,17 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ytjs/demo1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ytjs/demo1/issues"
+  },
+  "homepage": "https://github.com/ytjs/demo1#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.1.1"
+  }
 }
